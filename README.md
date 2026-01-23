@@ -1,6 +1,6 @@
 # UrbanCart-Sales-Analytics-SQL-Based-Business-Insights
 In this project ,  I analyze UrbanCart’s sales data using SQL to uncover business insights related to customers, revenue, products, and purchasing behavior.
-![Customer Purchase Pattern](images/image1.png)
+![Customer Purchase Pattern](https://raw.githubusercontent.com/NaimurRah1/UrbanCart-Sales-Analytics-SQL-Based-Business-Insights/blob/main/image/page1.png)
 
 ## Image Analysis & Discussion
 

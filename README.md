@@ -53,4 +53,5 @@ The chart highlights that the Fashion category is the top revenue generator for 
 Following Fashion, Grocery and Electronics are the next highest revenue contributors. Grocery’s strong performance suggests high purchase frequency, as essential items are bought regularly. Electronics likely generate significant revenue due to higher individual product prices, even if purchase frequency is lower than groceries.
 
 It’s important to note that this analysis considers only completed orders, which excludes canceled or returned orders. Therefore, the revenue figures reflect actual sales successfully processed rather than potential demand. This distinction is critical for decision-making, as it ensures the insights are grounded in real, realized revenue.
+
 ---

@@ -137,3 +137,10 @@ The clustered column chart shows that Cash on Delivery (COD) has the highest num
 This suggests a potential relationship between payment method and order status, with COD being associated with more cancellations. To confirm whether this relationship is statistically significant, a Chi-square test should be conducted.
 
 ---
+### 18.  Payment Method Preferences Across Cities:
+![UrbanCart Sales Overview](https://raw.githubusercontent.com/NaimurRah1/UrbanCart-Sales-Analytics-SQL-Based-Business-Insights/main/image/page20.png)
+
+**Discussion:**
+The query output shows that, overall, most cities prefer Cash on Delivery (COD), followed by Bkash and then Nagad. However, some city-specific variations are observed: residents of Dhaka prefer Bkash over COD, while Gazipur shows nearly equal usage of COD and Bkash. The use of Debit Card and Credit Card remains low across all cities.
+
+---

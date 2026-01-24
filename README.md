@@ -168,4 +168,4 @@ The SQL query identifies the top 18 pairs of products that are purchased togethe
 
 ---
 ### 22. The product pairs appear most often across all orders
-![UrbanCart Sales Overview](https://raw.githubusercontent.com/NaimurRah1/UrbanCart-Sales-Analytics-SQL-Based-Business-Insights/main/image/page2৳.png)
+![UrbanCart Sales Overview](https://raw.githubusercontent.com/NaimurRah1/UrbanCart-Sales-Analytics-SQL-Based-Business-Insights/main/image/page22.png)

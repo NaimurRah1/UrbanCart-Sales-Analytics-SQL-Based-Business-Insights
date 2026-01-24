@@ -144,3 +144,12 @@ This suggests a potential relationship between payment method and order status, 
 The query output shows that, overall, most cities prefer Cash on Delivery (COD), followed by Bkash and then Nagad. However, some city-specific variations are observed: residents of Dhaka prefer Bkash over COD, while Gazipur shows nearly equal usage of COD and Bkash. The use of Debit Card and Credit Card remains low across all cities.
 
 ---
+### 19. Association between high-value-order and specific payment method:
+![UrbanCart Sales Overview](https://raw.githubusercontent.com/NaimurRah1/UrbanCart-Sales-Analytics-SQL-Based-Business-Insights/main/image/page21.png)
+
+**Discussion:**
+The SQL query output shows that a large number of high-value orders are placed using Cash on Delivery (COD) compared to other payment methods. Specifically, among all high-value orders, 76 orders used COD, 52 used Bkash, 42 used Nagad, and only 23 used Credit or Debit Cards. This suggests a potential association between payment method and high-value orders.
+
+To confirm whether this relationship is statistically significant, a Chi-square test should be conducted.
+
+---

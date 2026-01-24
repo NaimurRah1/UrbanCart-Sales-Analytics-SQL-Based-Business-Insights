@@ -76,5 +76,10 @@ Considering only completed orders, the average order value (AOV) is 1,899 Taka, 
 ### 9.products are at risk of stock-out due to high sales volume and low inventory :
 <p float="left">
   <img src="https://raw.githubusercontent.com/NaimurRah1/UrbanCart-Sales-Analytics-SQL-Based-Business-Insights/main/image/page11.png" width="45%" />
-  <img src="https://raw.githubusercontent.com/NaimurRah1/UrbanCart-Sales-Analytics-SQL-Based-Business-Insights/main/image/page12.pn" width="45%" />
+  <img src="https://raw.githubusercontent.com/NaimurRah1/UrbanCart-Sales-Analytics-SQL-Based-Business-Insights/main/image/page12.png" width="45%" />
 </p>
+
+**Discussion:**
+The chart shows the stock-to-sales ratio to evaluate the risk of stock-outs for products. A ratio between 0.2 and 0.5 indicates a high risk, with Power Bank (1000 mAh) falling in this range, making it the most vulnerable product. Products with a ratio between 0.5 and 1 are at medium risk, including Wallet, Horlicks (500 g), and Bru Coffee (200 g). Products with a ratio above 1 are considered low risk.
+
+---

@@ -6,6 +6,28 @@ In this project ,  I analyze UrbanCart’s sales data using SQL to uncover busin
 ![UrbanCart Sales Overview](https://raw.githubusercontent.com/NaimurRah1/UrbanCart-Sales-Analytics-SQL-Based-Business-Insights/main/image/page2.png)
 
 This project analyzes UrbanCart’s sales data using SQL to uncover actionable business insights related to revenue performance, product trends, and customer purchasing behavior. By querying transactional and dimensional data from tables such as fact_order, fact_order_items, dim_products, and dim_customers for the period from October 1, 2025, to September 30, 2025, the analysis explores key questions including revenue distribution, top-performing and underperforming products, frequently purchased product combinations, customer ordering patterns, and drivers of order value. The objective is to evaluate overall sales performance, identify top products and customers, recognize emerging trends, and support data-driven business decision-making through insights on revenue, order quantity, and transaction patterns
+
+---
+## Recommendations
+
+Based on the analysis of UrbanCart’s sales, customer behavior, and product performance, the following recommendations are suggested to improve revenue, retention, and overall operational efficiency:
+
+- **Targeted Promotions:** Use targeted promotions and loyalty incentives in **November and December** to retain repeat customers and prevent declines in order volume.  
+- **Order Processing:** Prioritize faster order processing and follow-up on **pending orders** to convert potential revenue into realized revenue.  
+- **High-Revenue Products:** Focus on high-revenue products (e.g., **Power Bank, Nazir Shali Rice, Horlicks**) and their categories (**Electronics and Grocery**) for inventory management, promotion, and cross-selling.  
+- **Basket Size Optimization:** Leverage **high basket sizes** by promoting **cross-selling and bundled offers** to increase revenue per order.  
+- **Inventory Management:** Prioritize increasing inventory or production for **high- and medium-risk products** (e.g., Power Bank, Wallet, Horlicks, Bru Coffee) to reduce stock-out risks.  
+- **High-Value Customer Retention:** Offer targeted **discounts, loyalty rewards, or exclusive incentives** to retain high-value customers and encourage continued purchasing.  
+- **Gender-Based Marketing:** Use **gender-based insights** to design targeted campaigns and promotions in categories where male customers show higher purchasing behavior.  
+- **New Customer Engagement:** Focus on engaging **new customers during the first three months** after account creation through personalized communications, offers, or loyalty programs.  
+- **Payment Methods Optimization:** Support and optimize the **most popular payment methods** (COD, Bkash, Nagad) to improve customer experience and reduce checkout friction.  
+- **Digital Payment Adoption:** Encourage adoption of **digital payments** (Credit/Debit Cards or Bkash) through discounts or other incentives.  
+- **COD Monitoring:** Monitor **COD and high-value COD orders** closely to reduce cancellations or payment issues through improved verification or confirmation.  
+- **High-Revenue Product Pairing:** Place **high-revenue product pairs together** using bundling, recommendation engines, or strategic placement to increase overall sales.  
+- **Bundle-Strength Optimization:** Leverage **high bundle-strength product pairs** for bundling, cross-selling, and recommendation strategies.  
+- **Multiple Complementary Pairs:** Promote **multiple complementary product pairs** rather than a single combination to address diverse customer needs, increase average order value, and improve cross-selling performance across categories.  
+
+---
 ##  ER Diagram view
 ![UrbanCart Sales Overview](https://raw.githubusercontent.com/NaimurRah1/UrbanCart-Sales-Analytics-SQL-Based-Business-Insights/main/image/page3.png)
 

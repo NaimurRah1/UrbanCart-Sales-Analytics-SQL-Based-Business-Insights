@@ -23,10 +23,14 @@ During this period, UrbanCart recorded a total of 1,200 orders. Among them, 713 
 
 ---
 
-### 2-3. Number of unique custoemrs & number of unique customer have placed at least one order.
+### 2-3. Number of unique custoemrs & city wise order status
 ![UrbanCart Sales Overview](https://raw.githubusercontent.com/NaimurRah1/UrbanCart-Sales-Analytics-SQL-Based-Business-Insights/main/image/page5.png)
 
 **Discussion:**  
 During this period, 100 unique customers placed orders on UrbanCart. Out of the 1,200 total orders, Barishal recorded the highest number (173), followed by Sylhet (148) and Chattogram (140), while the remaining orders were distributed across other cities.
+
+### 4.The percentage of customers have placed more than one order & number of unique customers have placed at least one order
+![UrbanCart Sales Overview](https://raw.githubusercontent.com/NaimurRah1/UrbanCart-Sales-Analytics-SQL-Based-Business-Insights/main/image/page6.png)
+
 **Discussion:**  
-The combination of Miniket Rice 5Kg and Power Bank generates the highest revenue when purchased together.
+The analysis indicates that all customers placed more than one order, reflecting a fully repeat-customer base and suggesting strong customer retention during the period. This behavior implies consistent engagement and satisfaction with the platform. However, the order volume trend shows a peak in October, followed by a slight decline in November and a more noticeable drop in December. This downward pattern may be influenced by seasonal effects, changing customer demand, or reduced promotional activity toward the end of the year, highlighting the need for targeted strategies to sustain order volume in later months.

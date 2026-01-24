@@ -6,8 +6,8 @@ In this project ,  I analyze UrbanCart’s sales data using SQL to uncover busin
 ![UrbanCart Sales Overview](https://raw.githubusercontent.com/NaimurRah1/UrbanCart-Sales-Analytics-SQL-Based-Business-Insights/main/image/page2.png)
 
 This project analyzes UrbanCart’s sales data using SQL to uncover actionable business insights related to revenue performance, product trends, and customer purchasing behavior. By querying transactional and dimensional data from tables such as fact_order, fact_order_items, dim_products, and dim_customers for the period from October 1, 2025, to September 30, 2025, the analysis explores key questions including revenue distribution, top-performing and underperforming products, frequently purchased product combinations, customer ordering patterns, and drivers of order value. The objective is to evaluate overall sales performance, identify top products and customers, recognize emerging trends, and support data-driven business decision-making through insights on revenue, order quantity, and transaction patterns
-### 1. Customer Purchase Pattern
-![Customer Purchase Pattern](images/img1.png)
+### 1. ER Diagram view
+![UrbanCart Sales Overview](https://raw.githubusercontent.com/NaimurRah1/UrbanCart-Sales-Analytics-SQL-Based-Business-Insights/main/image/page3.png)
 
 **Discussion:**  
 This image shows the purchasing behavior of customers across categories.  

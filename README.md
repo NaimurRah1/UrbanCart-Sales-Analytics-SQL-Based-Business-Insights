@@ -119,3 +119,12 @@ The query tracks customer arrivals over the first three months after account cre
 For example, customers who created an account on 2025-09-14 had 12 out of 13 arrivals in the first month, all 13 in the second month, and 8 in the third month. Similar patterns are observed for other account creation dates, showing how many new customers return in the following months.
 
 This analysis helps understand customer retention trends and identify periods where engagement may drop, providing insights for targeted marketing, follow-up campaigns, or loyalty initiatives to improve long-term customer retention.
+
+---
+### 16. The payment methods are used most frequently
+![UrbanCart Sales Overview](https://raw.githubusercontent.com/NaimurRah1/UrbanCart-Sales-Analytics-SQL-Based-Business-Insights/main/image/page18.png)
+
+**Discussion:**
+The analysis of completed orders shows that Cash on Delivery (COD) is the most popular payment method, with 391 orders, followed by Bkash (276 orders) and Nagad (188 orders). Credit Card (54 orders) and Debit Card (45 orders) are the least used payment methods. Cancelled orders are excluded from this analysis.
+
+---

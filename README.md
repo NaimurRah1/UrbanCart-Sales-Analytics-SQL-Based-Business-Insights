@@ -55,3 +55,14 @@ Following Fashion, Grocery and Electronics are the next highest revenue contribu
 It’s important to note that this analysis considers only completed orders, which excludes canceled or returned orders. Therefore, the revenue figures reflect actual sales successfully processed rather than potential demand. This distinction is critical for decision-making, as it ensures the insights are grounded in real, realized revenue.
 
 ---
+### 7. Individual products  wise  revenue :
+![UrbanCart Sales Overview](https://raw.githubusercontent.com/NaimurRah1/UrbanCart-Sales-Analytics-SQL-Based-Business-Insights/main/image/page9.png)
+
+**Discussion:**
+he SQL query focuses on product-wise revenue, highlighting the top 15 products in terms of sales. According to the results, Power Bank (1000 mAh) leads in revenue generation, followed by Nazir Shali Rice (500 kg) and Horlicks (500 g). This suggests that both electronics and essential goods are major contributors to UrbanCart’s sales, reflecting a diverse revenue stream across different product types.
+
+By identifying these top-performing products, the analysis provides insight into key revenue drivers, helping the business understand which items significantly impact overall sales. This information is valuable for inventory management, marketing strategies, and promotional planning. For example, ensuring these products are always in stock, offering bundle deals, or highlighting them in advertisements could further enhance revenue.
+
+Additionally, focusing on top revenue-generating products allows the business to allocate resources efficiently, prioritizing high-impact items to maximize profitability.
+
+---

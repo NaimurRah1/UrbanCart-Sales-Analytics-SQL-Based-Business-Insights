@@ -209,7 +209,7 @@ These results indicate strong cross-purchase behavior among these items.
 
 ---
 ### 24. product combinations could be recommended as bundles to increase revenue
-![UrbanCart Sales Overview](https://raw.githubusercontent.com/NaimurRah1/UrbanCart-Sales-Analytics-SQL-Based-Business-Insights/main/image/page26.png)
+![UrbanCart Sales Overview](https://raw.githubusercontent.com/NaimurRah1/UrbanCart-Sales-Analytics-SQL-Based-Business-Insights/main/image/png26.png)
 
 **Discussion:**
 The SQL output highlights product pairs that are frequently purchased together and calculates their bundle strength, which measures how strongly two products are associated relative to their individual order volumes. Higher bundle strength indicates that customers who buy one product are very likely to buy the other.

@@ -168,11 +168,11 @@ The SQL query identifies the top 18 pairs of products that are purchased togethe
 
 ---
 ### 22. The product pairs appear most often across all orders
-![UrbanCart Sales Overview](https://raw.githubusercontent.com/NaimurRah1/UrbanCart-Sales-Analytics-SQL-Based-Business-Insights/main/image/page22.png)
+![UrbanCart Sales Overview](https://raw.githubusercontent.com/NaimurRah1/UrbanCart-Sales-Analytics-SQL-Based-Business-Insights/main/image/page24.png)
 
 ---
 ### 23. The product pairs that consistently drive higher order values
-![UrbanCart Sales Overview](https://raw.githubusercontent.com/NaimurRah1/UrbanCart-Sales-Analytics-SQL-Based-Business-Insights/main/image/page23.png)
+![UrbanCart Sales Overview](https://raw.githubusercontent.com/NaimurRah1/UrbanCart-Sales-Analytics-SQL-Based-Business-Insights/main/image/page25.png)
 
 **Discussion:**
 The SQL output shows that certain product pairs purchased together generate higher revenue. The top pairs are:
@@ -187,11 +187,22 @@ These results indicate strong cross-purchase behavior among these items.
 
 ---
 ### 24. product combinations could be recommended as bundles to increase revenue
-![UrbanCart Sales Overview](https://raw.githubusercontent.com/NaimurRah1/UrbanCart-Sales-Analytics-SQL-Based-Business-Insights/main/image/page24.png)
+![UrbanCart Sales Overview](https://raw.githubusercontent.com/NaimurRah1/UrbanCart-Sales-Analytics-SQL-Based-Business-Insights/main/image/page26.png)
 
 **Discussion:**
 The SQL output highlights product pairs that are frequently purchased together and calculates their bundle strength, which measures how strongly two products are associated relative to their individual order volumes. Higher bundle strength indicates that customers who buy one product are very likely to buy the other.
 
 For example, the pair Potato (1kg) and Farm Fresh Milk (1L) shows a strong bundling relationship with at least 20 shared orders. Several other product pairs with strong associations are also shown in the SQL output.
+
+---
+### 25. Based on product co-occurrence and customer behavior, the products should UrbanCart promote together to maximize cross-selling opportunities
+![UrbanCart Sales Overview](https://raw.githubusercontent.com/NaimurRah1/UrbanCart-Sales-Analytics-SQL-Based-Business-Insights/main/image/page27.png)
+
+**Discussion:**
+This analysis examines multiple product combinations that customers frequently purchase together, going beyond a single top-performing pair. The results reveal a variety of product–product pairs that consistently appear in the same orders and contribute meaningful revenue.
+
+1. High-revenue pairs are ideal for premium bundles and featured promotions.
+
+2. High-frequency but moderate-revenue pairs can be leveraged for recommendation engines and add-on suggestions.
 
 ---

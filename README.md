@@ -167,3 +167,5 @@ The chart shows that customers using Debit Cards have the highest average number
 The SQL query identifies the top 18 pairs of products that are purchased together most frequently. The most common pair is Potato (1kg) and Peanut (500g), bought together 22 times, followed by Potato (1kg) and Farm Fresh Milk (1L) with 21 purchases. Several other pairs are bought together 18 times, as shown in the output table.
 
 ---
+### 22. The product pairs appear most often across all orders
+![UrbanCart Sales Overview](https://raw.githubusercontent.com/NaimurRah1/UrbanCart-Sales-Analytics-SQL-Based-Business-Insights/main/image/page2৳.png)

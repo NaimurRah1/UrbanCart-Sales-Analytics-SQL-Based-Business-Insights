@@ -169,3 +169,20 @@ The SQL query identifies the top 18 pairs of products that are purchased togethe
 ---
 ### 22. The product pairs appear most often across all orders
 ![UrbanCart Sales Overview](https://raw.githubusercontent.com/NaimurRah1/UrbanCart-Sales-Analytics-SQL-Based-Business-Insights/main/image/page22.png)
+
+---
+### 23. The product pairs that consistently drive higher order values
+![UrbanCart Sales Overview](https://raw.githubusercontent.com/NaimurRah1/UrbanCart-Sales-Analytics-SQL-Based-Business-Insights/main/image/page23.png)
+
+**Discussion:**
+The SQL output shows that certain product pairs purchased together generate higher revenue. The top pairs are:
+
+1. Miniket Rice (5kg) and Power Bank (1000mAh) – highest revenue
+
+2. T-Shirt (Men) and Bru Coffee (200g) – second-highest revenue
+
+3. Power Bank (1000mAh) and Bru Coffee (200g) – third-highest revenue
+
+These results indicate strong cross-purchase behavior among these items.
+
+---

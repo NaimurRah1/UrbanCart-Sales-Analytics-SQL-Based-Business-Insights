@@ -103,3 +103,10 @@ The average basket size for UrbanCart is 10, meaning that, on average, each orde
 The analysis shows that male customers purchase more products than female customers across multiple categories, including Grocery, Fashion, Personal Care, Digital, Home Care, Electronics, Dairy, Beverages, Snacks, and Meat. Specifically, males purchase more than females in Grocery, Fashion, Personal Care, Digital, and Home Care, with the difference increasing in that order. This insight can help tailor marketing strategies and promotions for different customer segments.
 
 ---
+### 13. The cities which have the highest average order value
+![UrbanCart Sales Overview](https://raw.githubusercontent.com/NaimurRah1/UrbanCart-Sales-Analytics-SQL-Based-Business-Insights/main/image/page16.png)
+
+**Discussion:**
+The analysis shows that Rajshahi generates the highest average order value (AOV), followed by Cumilla and Narayanganj, considering all orders (completed, pending, and cancelled). In contrast, Sylhet and Dhaka record the lowest AOV.
+
+---

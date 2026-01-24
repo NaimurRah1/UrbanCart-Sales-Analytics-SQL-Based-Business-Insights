@@ -44,3 +44,13 @@ The analysis indicates that all customers placed more than one order, reflecting
 The analysis shows that UrbanCart generated a total revenue of 1,353,914 Taka from completed orders, providing a reliable measure of realized sales performance. By excluding pending and cancelled orders, this figure reflects actual cash-generating transactions. However, if all currently pending orders are successfully completed, total revenue is projected to rise to 1,789,715 Taka, indicating a substantial potential upside. This gap highlights the importance of efficient order fulfillment and follow-up processes, as converting pending orders into completed ones could significantly boost overall revenue without acquiring new customers.
 
 ---
+### 6. Product categories that contribute the most to total revenue.
+![UrbanCart Sales Overview](https://raw.githubusercontent.com/NaimurRah1/UrbanCart-Sales-Analytics-SQL-Based-Business-Insights/main/image/page8.png)
+
+**Discussion:**
+The chart highlights that the Fashion category is the top revenue generator for UrbanCart. This indicates that clothing, accessories, and related fashion items are the most popular and profitable products among customers. Several factors could explain this: fashion products often have higher price points compared to everyday items, frequent seasonal demand, and potential for upselling (e.g., matching items or bundles).
+
+Following Fashion, Grocery and Electronics are the next highest revenue contributors. Grocery’s strong performance suggests high purchase frequency, as essential items are bought regularly. Electronics likely generate significant revenue due to higher individual product prices, even if purchase frequency is lower than groceries.
+
+It’s important to note that this analysis considers only completed orders, which excludes canceled or returned orders. Therefore, the revenue figures reflect actual sales successfully processed rather than potential demand. This distinction is critical for decision-making, as it ensures the insights are grounded in real, realized revenue.
+---

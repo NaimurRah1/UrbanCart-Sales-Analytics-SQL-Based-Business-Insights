@@ -110,3 +110,12 @@ The analysis shows that male customers purchase more products than female custom
 The analysis shows that Rajshahi generates the highest average order value (AOV), followed by Cumilla and Narayanganj, considering all orders (completed, pending, and cancelled). In contrast, Sylhet and Dhaka record the lowest AOV.
 
 ---
+### 15. The way customer purchasing behavior change over time since account creation
+![UrbanCart Sales Overview](https://raw.githubusercontent.com/NaimurRah1/UrbanCart-Sales-Analytics-SQL-Based-Business-Insights/main/image/page17.png)
+
+**Customer Retention Analysis:**
+The query tracks customer arrivals over the first three months after account creation. Customers are grouped by their account creation date, and the number of returning customers is counted for each subsequent month.
+
+For example, customers who created an account on 2025-09-14 had 12 out of 13 arrivals in the first month, all 13 in the second month, and 8 in the third month. Similar patterns are observed for other account creation dates, showing how many new customers return in the following months.
+
+This analysis helps understand customer retention trends and identify periods where engagement may drop, providing insights for targeted marketing, follow-up campaigns, or loyalty initiatives to improve long-term customer retention.

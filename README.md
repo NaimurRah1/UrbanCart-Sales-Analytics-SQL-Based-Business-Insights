@@ -90,3 +90,16 @@ The chart shows the stock-to-sales ratio to evaluate the risk of stock-outs for 
 The SQL query identifies the top 18 customers who contribute the highest share of total revenue, considering only completed orders. These customers represent UrbanCart’s most valuable segment, driving a significant portion of overall sales.
 
 ---
+### 11-12. The average number of products purchased per order & male and female customers purchasing patterns by category
+<p float="left">
+  <img src="https://raw.githubusercontent.com/NaimurRah1/UrbanCart-Sales-Analytics-SQL-Based-Business-Insights/main/image/page14.png" width="45%" />
+  <img src="https://raw.githubusercontent.com/NaimurRah1/UrbanCart-Sales-Analytics-SQL-Based-Business-Insights/main/image/png15.png" width="45%" />
+</p>
+
+**Discussion:**
+The average basket size for UrbanCart is 10, meaning that, on average, each order contains 10 units of products. This indicates that customers tend to purchase multiple items per transaction, providing opportunities for cross-selling and bundled offers.
+
+**Customer Purchase Patterns by Gender:**
+The analysis shows that male customers purchase more products than female customers across multiple categories, including Grocery, Fashion, Personal Care, Digital, Home Care, Electronics, Dairy, Beverages, Snacks, and Meat. Specifically, males purchase more than females in Grocery, Fashion, Personal Care, Digital, and Home Care, with the difference increasing in that order. This insight can help tailor marketing strategies and promotions for different customer segments.
+
+---

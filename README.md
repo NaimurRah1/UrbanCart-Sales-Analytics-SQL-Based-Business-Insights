@@ -128,3 +128,12 @@ This analysis helps understand customer retention trends and identify periods wh
 The analysis of completed orders shows that Cash on Delivery (COD) is the most popular payment method, with 391 orders, followed by Bkash (276 orders) and Nagad (188 orders). Credit Card (54 orders) and Debit Card (45 orders) are the least used payment methods. Cancelled orders are excluded from this analysis.
 
 ---
+### 17. Relation between payment method and order status:
+![UrbanCart Sales Overview](https://raw.githubusercontent.com/NaimurRah1/UrbanCart-Sales-Analytics-SQL-Based-Business-Insights/main/image/page19.png)
+
+**Discussion:**
+The clustered column chart shows that Cash on Delivery (COD) has the highest number of completed orders (391), but it also exhibits a large number of cancelled orders. A similar trend is seen for Bkash (276 orders) and Nagad (188 orders), although these have relatively balanced proportions of completed, cancelled, and pending orders.
+
+This suggests a potential relationship between payment method and order status, with COD being associated with more cancellations. To confirm whether this relationship is statistically significant, a Chi-square test should be conducted.
+
+---

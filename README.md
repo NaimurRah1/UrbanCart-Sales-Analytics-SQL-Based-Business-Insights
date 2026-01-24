@@ -14,11 +14,12 @@ The ER diagram illustrates the database structure of the system by showing the m
 
 ---
 
-### 2. Payment Method Distribution
-![Payment Method](images/img2.png)
+### 1. Order Distribution
+![UrbanCart Sales Overview](https://raw.githubusercontent.com/NaimurRah1/UrbanCart-Sales-Analytics-SQL-Based-Business-Insights/main/image/page4.png)
 
 **Discussion:**  
-Cash on Delivery is the most preferred payment method, followed by bKash and Nagad.
+Order Summary (September 30, 2025 – October 1, 2025)
+During this period, UrbanCart recorded a total of 1,200 orders. Among them, 713 orders were successfully completed. The remaining 487 orders were not completed, with 241 orders still in a pending state and the rest having been cancelled.
 
 ---
 

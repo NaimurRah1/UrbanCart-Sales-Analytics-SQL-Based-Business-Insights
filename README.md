@@ -66,3 +66,10 @@ By identifying these top-performing products, the analysis provides insight into
 Additionally, focusing on top revenue-generating products allows the business to allocate resources efficiently, prioritizing high-impact items to maximize profitability.
 
 ---
+### 8. The average order value (AOV) and Average Basket Size :
+![UrbanCart Sales Overview](https://raw.githubusercontent.com/NaimurRah1/UrbanCart-Sales-Analytics-SQL-Based-Business-Insights/main/image/page10.png)
+
+**Discussion:**
+Considering only completed orders, the average order value (AOV) is 1,899 Taka, with an average basket size of approximately 10 items per order. Including both completed and pending orders, the AOV slightly decreases to 1,876 Taka, while the basket size remains around 10 items. This indicates that customers typically purchase multiple products per order, generating substantial revenue per transaction. These insights can help guide marketing strategies, pricing, and inventory management.
+
+---

@@ -93,7 +93,7 @@ The SQL query identifies the top 18 customers who contribute the highest share o
 ### 11-12. The average number of products purchased per order & male and female customers purchasing patterns by category
 <p float="left">
   <img src="https://raw.githubusercontent.com/NaimurRah1/UrbanCart-Sales-Analytics-SQL-Based-Business-Insights/main/image/page14.png" width="45%" />
-  <img src="https://raw.githubusercontent.com/NaimurRah1/UrbanCart-Sales-Analytics-SQL-Based-Business-Insights/main/image/png15.png" width="45%" />
+  <img src="https://raw.githubusercontent.com/NaimurRah1/UrbanCart-Sales-Analytics-SQL-Based-Business-Insights/main/image/page15.png" width="45%" />
 </p>
 
 **Discussion:**

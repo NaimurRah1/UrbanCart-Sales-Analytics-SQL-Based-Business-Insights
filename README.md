@@ -23,8 +23,10 @@ During this period, UrbanCart recorded a total of 1,200 orders. Among them, 713 
 
 ---
 
-### 3. Product Pair Revenue
-![Product Pair Revenue](images/img3.png)
+### 2-3. Number of unique custoemrs & number of unique customer have placed at least one order.
+![UrbanCart Sales Overview](https://raw.githubusercontent.com/NaimurRah1/UrbanCart-Sales-Analytics-SQL-Based-Business-Insights/main/image/page5.png)
 
+**Discussion:**  
+During this period, 100 unique customers placed orders on UrbanCart. Out of the 1,200 total orders, Barishal recorded the highest number (173), followed by Sylhet (148) and Chattogram (140), while the remaining orders were distributed across other cities.
 **Discussion:**  
 The combination of Miniket Rice 5Kg and Power Bank generates the highest revenue when purchased together.

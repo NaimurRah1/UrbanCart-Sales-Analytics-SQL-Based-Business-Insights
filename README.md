@@ -160,3 +160,10 @@ To confirm whether this relationship is statistically significant, a Chi-square 
 The chart shows that customers using Debit Cards have the highest average number of items per order (10.51), followed by Nagad (10.11 items per order). Bkash has the lowest average items per order (9.82).
 
 ---
+### 21. The products are most frequently ordered together
+![UrbanCart Sales Overview](https://raw.githubusercontent.com/NaimurRah1/UrbanCart-Sales-Analytics-SQL-Based-Business-Insights/main/image/page23.png)
+
+**Discussion:**
+The SQL query identifies the top 18 pairs of products that are purchased together most frequently. The most common pair is Potato (1kg) and Peanut (500g), bought together 22 times, followed by Potato (1kg) and Farm Fresh Milk (1L) with 21 purchases. Several other pairs are bought together 18 times, as shown in the output table.
+
+---

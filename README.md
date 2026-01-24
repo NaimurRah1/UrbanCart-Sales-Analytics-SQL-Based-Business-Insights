@@ -153,3 +153,10 @@ The SQL query output shows that a large number of high-value orders are placed u
 To confirm whether this relationship is statistically significant, a Chi-square test should be conducted.
 
 ---
+### 20. The average number of items per order by payment metho
+![UrbanCart Sales Overview](https://raw.githubusercontent.com/NaimurRah1/UrbanCart-Sales-Analytics-SQL-Based-Business-Insights/main/image/page22.png)
+
+**Discussion:**
+The chart shows that customers using Debit Cards have the highest average number of items per order (10.51), followed by Nagad (10.11 items per order). Bkash has the lowest average items per order (9.82).
+
+---

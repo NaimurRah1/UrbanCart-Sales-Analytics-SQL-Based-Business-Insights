@@ -83,3 +83,10 @@ Considering only completed orders, the average order value (AOV) is 1,899 Taka, 
 The chart shows the stock-to-sales ratio to evaluate the risk of stock-outs for products. A ratio between 0.2 and 0.5 indicates a high risk, with Power Bank (1000 mAh) falling in this range, making it the most vulnerable product. Products with a ratio between 0.5 and 1 are at medium risk, including Wallet, Horlicks (500 g), and Bru Coffee (200 g). Products with a ratio above 1 are considered low risk.
 
 ---
+### 10. The customers  who contribute the highest  to total revenue
+![UrbanCart Sales Overview](https://raw.githubusercontent.com/NaimurRah1/UrbanCart-Sales-Analytics-SQL-Based-Business-Insights/main/image/page13.png)
+
+**Discussion:**
+The SQL query identifies the top 18 customers who contribute the highest share of total revenue, considering only completed orders. These customers represent UrbanCart’s most valuable segment, driving a significant portion of overall sales.
+
+---

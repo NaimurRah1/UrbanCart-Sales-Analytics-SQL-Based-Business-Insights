@@ -76,7 +76,7 @@ Considering only completed orders, the average order value (AOV) is 1,899 Taka, 
 ### 9.products are at risk of stock-out due to high sales volume and low inventory :
 <p float="left">
   <img src="https://raw.githubusercontent.com/NaimurRah1/UrbanCart-Sales-Analytics-SQL-Based-Business-Insights/main/image/page11.png" width="45%" />
-  <img src="https://raw.githubusercontent.com/NaimurRah1/UrbanCart-Sales-Analytics-SQL-Based-Business-Insights/main/image/page12.png" width="45%" />
+  <img src="https://raw.githubusercontent.com/NaimurRah1/UrbanCart-Sales-Analytics-SQL-Based-Business-Insights/main/image/png12.png" width="45%" />
 </p>
 
 **Discussion:**
